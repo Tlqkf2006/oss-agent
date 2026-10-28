@@ -1,0 +1,32 @@
+실습 1
+1.답:채팅   이유:개념
+2. 답: 에이전트    이유 : 탐색
+3. 답:채팅  이유: 설명
+4. 답: 에이전트  이유:실행
+5:에이전트 이유:생성
+6.답 채팅  이유:교정
+
+
+
+실습 2
+1. 답:수락  기준:목적 부합성
+2.답:다르게지시  기준:범위 이탈
+3. 답:다르게 지시   기준:환경 오류
+4. 답:거절    기준:권한 범위 이탈
+5.답:수락   기주:목적 부합성
+6.답: 거절   기준: 위험성
+
+
+실습3
+1. read  a verage_pandas.py
+2.read   average_plain.py
+3.read   check.py
+4.read   scores.csv
+
+
+실습4 
+scores.csv          O   이상없
+average_plain.py   O   이상없
+average_pandas.py   O  이상없
+check.py  X   코드와하는일이다름
+ 
